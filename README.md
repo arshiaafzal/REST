@@ -1,5 +1,11 @@
 # REST: Efficient and Accelerated EEG Seizure Analysis through Residual State Updates
 
+
+<video width="320" height="240" controls>
+  <source src="static/videos/teaser.mp4" type="video/mp4">
+</video>
+
+
 EEG-based seizure detection models face challenges in terms of inference speed and memory efficiency, limiting their real-time implementation in clinical devices.
 
 This paper introduces a novel graph-based residual state update mechanism (REST) for real-time EEG signal analysis in applications such as epileptic seizure detection. By leveraging a combination of graph neural networks and recurrent structures, REST efficiently captures both non-Euclidean geometry and temporal dependencies within EEG data.
