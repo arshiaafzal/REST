@@ -1,7 +1,7 @@
 # REST: Efficient and Accelerated EEG Seizure Analysis through Residual State Updates
 
 
-<video src="static/videos/teaser.mp4" width="320" height="240" controls></video>
+![Demo](./static/videos/teaser.mp4)
 
 
 
