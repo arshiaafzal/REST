@@ -1,9 +1,8 @@
 # REST: Efficient and Accelerated EEG Seizure Analysis through Residual State Updates
 
 
-<video width="320" height="240" controls>
-  <source src="./static/videos/teaser.mp4" type="video/mp4">
-</video>
+<video src="static/videos/teaser.mp4" width="320" height="240" controls></video>
+
 
 
 EEG-based seizure detection models face challenges in terms of inference speed and memory efficiency, limiting their real-time implementation in clinical devices.
