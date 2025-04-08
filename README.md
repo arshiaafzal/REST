@@ -2,7 +2,7 @@
 
 
 <video width="320" height="240" controls>
-  <source src="static/videos/teaser.mp4" type="video/mp4">
+  <source src="./static/videos/teaser.mp4" type="teaser/mp4">
 </video>
 
 
